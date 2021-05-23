@@ -2,7 +2,7 @@
 
 ## 準備
 
-以下のコマンドで command へのパスを通す
+以下のコマンドで units へのパスを通す
 
 ```$
 $ source setup.sh

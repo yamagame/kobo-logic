@@ -1,1 +1,1 @@
-export PATH="`pwd`/command:$PATH"
+export PATH="`pwd`/unit:$PATH"
